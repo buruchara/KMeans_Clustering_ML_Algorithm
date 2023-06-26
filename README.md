@@ -19,6 +19,7 @@ Imports the required libraries, including scikit-learn for K-Means clustering an
 6. Visualizes the clusters and centroids using a scatter plot.
 
 #Acknowledgments
+
 -The scikit-learn library is used for K-Means clustering, which provides efficient implementation of the algorithm.
 -The matplotlib library is used for data visualization, enabling the creation of scatter plots.
 -The pandas library is used for data manipulation and preprocessing.
